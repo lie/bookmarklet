@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "glob": "^8.0.3",
+    "webpack-cli": "^4.10.0"
+  },
+  "scripts": {
+    "build": "webpack"
+  }
+}
